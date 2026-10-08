@@ -1,1 +1,1 @@
-# roblox5
+# roblox5 loadstring(game:HttpGet("رابط_الملف_الخاص_بك"))()
