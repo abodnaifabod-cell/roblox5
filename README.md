@@ -1,1 +1,1 @@
-# roblox5 loadstring(game:HttpGet("رابط_الملف_الخاص_بك"))()
+loadstring(game:HttpGet("loadstring(game:HttpGet("https://rentry.co/abdullah-otaibi-gui/raw"))()"))()
